@@ -1,5 +1,5 @@
 # Photoshop Resize Scripts
-Resizing various photos for marketing purposes for web, social media, and email lists is time consuming. Here are some scripts to do quickly.
+Resizing various photos for web, social media, and email marketing is time consuming. Here are some scripts to do it quickly.
 
 Here are some scripts that I use to batch resize photos for Squarespace, Instagram, Facebook, and Mailchimp.
 
@@ -8,7 +8,7 @@ Here are some scripts that I use to batch resize photos for Squarespace, Instagr
 2. Open Adobe Photoshop.
 3. Click "File" -> "Scripts" -> "Browse".
 4. Select which script file that you want to run.
-5. A dialog box will open asking which folder of jpg photos that you want to resize.
+5. A dialog box will open asking which folder you want the script to run on.
 6. After selecting the folder, the script will run; so, sit back and wait.
 
 ## Details
