@@ -13,7 +13,7 @@ Here are some scripts that I use to batch resize photos for Squarespace, Instagr
 
 ## Details
 1. The scripts will resize all .jpgs in the folder that you select.
-2. The resize photos will be stored a subfolder called "Resize" with the width of the photo appended to the end of the original file name.
+2. The resized photos will be saved as a copy in a subfolder called "Resize" with the width of the photo appended to the end of the original file name.
 
 ## ProTips:
 1. Set up a keyboard shortcut instead of clicking "File" -> "Scripts" -> "Browse" everytime you want to run your script. I have mine setup as "Ctrl + Alt + ."
