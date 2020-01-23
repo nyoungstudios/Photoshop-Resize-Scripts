@@ -1,6 +1,6 @@
 // Created by Nathaniel Young (nyoungstudios)
 // this script resizes all photos in the folder with the optimal settings for web use including services like Squarespace or Wix
-// saves resizes files in a subfolder called "Resize"
+// saves resized files in a subfolder called "Resize"
 
 //wrapper function
 function main() {
