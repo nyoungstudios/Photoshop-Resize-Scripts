@@ -3,6 +3,9 @@ Resizing various photos for web, social media, and email marketing is time consu
 
 Here are some scripts that I use to batch resize photos for Squarespace, Instagram, Facebook, and Mailchimp.
 
+## **Important
+Batch scripts are not working on the latest version of Photoshop. New update will be released stay tuned.
+
 ## How to use?
 1. Download the script files to your computer.
 2. Open Adobe Photoshop.
