@@ -4,7 +4,7 @@ Resizing various photos for web, social media, and email marketing is time consu
 Here are some scripts that I use to batch resize photos for Squarespace, Instagram, Facebook, and Mailchimp.
 
 ## Updates
-Batch Scripts now support resizing multiple file extensions at the same time with the use of regular expressions. Currently `.jpg, .png, .tif, and .jpeg` are supported. You can add more if you want by changing the regular expression.
+Batch Scripts now supports resizing multiple file extensions at the same time with the use of regular expressions. Currently `.jpg, .png, .tif, and .jpeg` are supported. You can add more if you want by changing the regular expression.
 
 ## How to use?
 1. Download the script files to your computer.
