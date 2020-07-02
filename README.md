@@ -3,8 +3,8 @@ Resizing various photos for web, social media, and email marketing is time consu
 
 Here are some scripts that I use to batch resize photos for Squarespace, Instagram, Facebook, and Mailchimp.
 
-## Important
-Update: Batch Scripts only work will .jpg file extensions, but you can change that in the `getFiles()` command. Update will be planned to support more than one file extension at at time.
+## Updates
+Batch Scripts now support resizing multiple file extensions at the same time with the use of regular expressions. Currently `.jpg, .png, .tif, and .jpeg` are supported. You can add more if you want by changing the regular expression.
 
 ## How to use?
 1. Download the script files to your computer.
@@ -22,7 +22,7 @@ Update: Batch Scripts only work will .jpg file extensions, but you can change th
 7. After selecting the folder, the script will run; so, sit back and wait.
 
 ## Details for batch resize
-1. The scripts will resize all .jpgs in the folder that you select.
+1. The scripts will resize all images in the folder that you select.
 2. The resized photos will be saved as a copy in a subfolder called "Resize" with the width of the photo appended to the end of the original file name.
 
 ## ProTips:
