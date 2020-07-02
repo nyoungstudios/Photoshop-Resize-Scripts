@@ -12,10 +12,12 @@ function main() {
   if (inputFolder == null) {
     return;
   }
+  
+  // regular expression to match file types
+  var fileTypes = new RegExp('.*.jpg|.*.png|.*.tif|.*.jpeg', 'i');
 
-  // only resizes jpg files in the folder
-  var fileList = inputFolder.getFiles("*.jpg");
-
+  // gets list of files that match regular expression
+  var fileList = inputFolder.getFiles(fileTypes);
 
   // parameters
   var widthOfDocument = 1000;

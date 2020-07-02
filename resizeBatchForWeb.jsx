@@ -13,8 +13,11 @@ function main() {
     return;
   }
 
-  // only resizes jpg files in the folder
-  var fileList = inputFolder.getFiles("*.jpg");
+  // regular expression to match file types
+  var fileTypes = new RegExp('.*.jpg|.*.png|.*.tif|.*.jpeg', 'i');
+
+  // gets list of files that match regular expression
+  var fileList = inputFolder.getFiles(fileTypes);
 
   // parameters
   var longEdgeOfDocument = 2048;
